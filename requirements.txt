@@ -1,0 +1,10 @@
+cairocffi==1.7.1
+CairoSVG==2.7.1
+cffi==1.17.1
+chess==1.11.2
+dearpygui==2.0.0
+defusedxml==0.7.1
+pillow==11.2.1
+pycairo==1.28.0
+pycparser==2.22
+python-chess==1.999
